@@ -1,4 +1,4 @@
-module github.com/DmitryOdintsov/protos
+module github.com/ODYA1993/protoc
 
 go 1.21.4
 
